@@ -1,0 +1,23 @@
+body {
+    background-color: peachpuff;
+    text-align: center;
+}
+h1, p {
+    color: red;
+}
+h1 {
+    font-size: 4rem;
+    padding-top: 10rem;
+}
+.bigger-text {
+    font-size: 30px;
+}
+.container {
+    background: url("img\win95.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 800px;
+    width: 800px;
+    margin: auto;
+  }
